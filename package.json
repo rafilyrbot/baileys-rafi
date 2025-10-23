@@ -1,0 +1,13 @@
+{
+  "name": "baileys-rafi",
+  "version": "1.0.0",
+  "description": "Custom Baileys library with Rafi's banner info",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.5",
+    "moment": "^2.29.4"
+  },
+  "author": "rafistore6",
+  "license": "MIT"
+}
